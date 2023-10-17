@@ -3,7 +3,7 @@
 - 본선 : image OCR solution of AI model
 
   ## 대회 포스터
-  ![image]
+  ![image](https://user-images.githubusercontent.com/65781023/275729001-f2276780-40f9-41d4-a165-1e71f85b7a43.png)
 
   ## 대회 멤버
   - 박준석
